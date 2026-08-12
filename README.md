@@ -1,5 +1,6 @@
 # PhonePe: Reducing Support Load from Failed & Pending UPI Transactions
 **A Product Management Case Study**
+![Case study banner](./kpi-infographic.png)
 
 Root-cause analysis of why failed and pending UPI transactions generate support contacts at PhonePe's scale, and a roadmap for addressing the cause rather than the symptom.
 
